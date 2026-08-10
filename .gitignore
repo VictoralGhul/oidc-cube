@@ -1,0 +1,4 @@
+vendor
+config.inc.php
+.DS_Store
+snappymail.nginx.deploy
